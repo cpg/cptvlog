@@ -1,0 +1,22 @@
+{
+    "$jason": {
+        "head": {
+            "title": "Carlos' Vlog",
+            "description": "Tap to play the videos"
+        },
+        "body": {
+            "sections": [{
+                "items": [{
+                    "type": "image",
+                    "url": "https://i.ytimg.com/vi/IpAWwx1ujwo/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c6gyeasD3_3PzIWHgSxQDknTgCo",
+                    "action": {
+                        "type": "$media.play",
+                        "options": {
+                            "url": "http://r5---sn-p5qlsns7.googlevideo.com/videoplayback?id=o-AMadqvbDUPZPJgv-MId0bQ53AoT8mFYr3KtxXCmurFgW&gir=yes&ratebypass=yes&mv=m&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Csource%2Cupn%2Cexpire&ip=159.253.144.86&dur=109.110&key=yt6&mime=video%2Fmp4&lmt=1478494510921245&initcwndbps=4373750&mn=sn-p5qlsns7&clen=7269898&nh=IgpwcjAzLmlhZDA3KgkxMjcuMC4wLjE&signature=682368D2D3918DDDAF9E60CD9148EDCC63D2DC1E.B24F95E06A8F0779F4DCDBFED55B3CA00FB75DC9&source=youtube&upn=OjYd_uycaQ0&ms=au&ei=zQklWNGOCZKscprsgtgL&pl=24&itag=18&mt=1478822229&expire=1478843949&mm=31&ipbits=0&title=Driving+Around+the+Bay"
+                        }
+                    }
+                }]
+            }]
+        }
+    }
+}
