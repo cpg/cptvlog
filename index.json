@@ -5,6 +5,7 @@
             "description": "Tap to play the videos"
         },
         "body": {
+            "header": {"title":"Carlos' Vlog"},
             "sections": [{
                 "items": [{
                     "type": "image",
